@@ -1,8 +1,43 @@
-
 {
-    "whitelist": [
-        "Player1",
-        "Player2",
-        "Player3"
-    ]
+    "user": {
+        "1234": {
+            "registerdate": "15/03/2026",
+            "lastusedate": "15/03/2026",
+            "timesused": 3,
+            "blacklisted": false,
+            "admin": false,
+            "licenses": [],
+            "fuel": {},
+            "places": [],
+            "username": "some1",
+            "discordid": 123466892496395,
+            "discordusername": "some1else"
+        }
+    },
+    "places": {
+        "123456": {
+            "registerdate": "15/03/2026",
+            "lastusedate": "15/03/2026",
+            "timesused": 3,
+            "registeredbyid": 1234,
+            "registeredbyusername": "some1",
+            "registeredbydiscordid": 14358,
+            "blacklisted": false
+        }
+    },
+    "users": {
+        "143": {
+            "registerdate": "15/03/2026",
+            "lastusedate": "",
+            "timesused": 0,
+            "blacklisted": false,
+            "admin": false,
+            "licenses": [],
+            "fuel": {},
+            "places": [],
+            "username": "jaakstudio",
+            "discordid": 871763708404199515,
+            "discordusername": "jaakstudio"
+        }
+    }
 }
