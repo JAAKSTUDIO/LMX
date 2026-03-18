@@ -38,5 +38,6 @@
             "blacklisted": false
         }
     },
-    "block_on_blacklist": true
+    "block_on_blacklist": true,
+    "block_no_license": true
 }
