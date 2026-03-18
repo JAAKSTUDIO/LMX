@@ -4,7 +4,7 @@
             "registerdate": "15/03/2026",
             "lastusedate": "",
             "timesused": 0,
-            "blacklisted": true,
+            "blacklisted": false,
             "admin": true,
             "licenses": [],
             "fuel": {},
