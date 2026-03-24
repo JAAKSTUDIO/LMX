@@ -28,16 +28,43 @@
         }
     },
     "places": {
-        "123456": {
-            "registerdate": "15/03/2026",
-            "lastusedate": "15/03/2026",
-            "timesused": 3,
+        "1234567890": {
+            "registerdate": "",
+            "lastusedate": "",
+            "timesused": 0,
             "registeredbyid": 1234,
-            "registeredbyusername": "some1",
-            "registeredbydiscordid": 14358,
-            "blacklisted": false
+            "playerpeak": 23,
+            "blacklisted": false,
+            "configs": {
+                "waypoints": {
+                    "entrance": {
+                        "coordinates": [24,52,243],
+                        "access": [],
+                        "teleportable": true
+                    }
+                },
+                "whitelist": {
+                    "13245": {
+                        "mod": true,
+                        "vehicles": false,
+                        "weather": false,
+                        "kick": false,
+                        "ban": false,
+                        "warn": false,
+                        "cables": false,
+                        "teleport": false,
+                        "teleportto": false,
+                        "waypoints": false
+                    }
+                },
+                "minimap": true,
+                "force": "rGar4154"
+            }
         }
     },
     "block_on_blacklist": true,
-    "block_no_license": true
+    "block_no_license": true,
+    "allow_minimap": true,
+    "allow_mods": true,
+    "compatible_versions": ["4.11"]
 }
