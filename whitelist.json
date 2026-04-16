@@ -66,5 +66,5 @@
     "block_no_license": true,
     "allow_minimap": true,
     "allow_mods": true,
-    "compatible_versions": ["4.11"]
+    "compatible_versions": ["1.16", "R1.16"]
 }
