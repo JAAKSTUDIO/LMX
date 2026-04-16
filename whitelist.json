@@ -8,9 +8,9 @@
             "admin": true,
             "licenses": {
                 "Lume Energy 20": {
-                    "fuel":165,
-                    "battery":21,
-                },
+                    "fuel": 165,
+                    "battery": 21
+                }
             },
             "places": [],
             "username": "jaakstudio",
@@ -41,7 +41,7 @@
             "configs": {
                 "waypoints": {
                     "entrance": {
-                        "coordinates": [24,52,243],
+                        "coordinates": [24, 52, 243],
                         "access": [],
                         "teleportable": true
                     }
