@@ -6,12 +6,7 @@
             "timesused": 0,
             "blacklisted": false,
             "admin": true,
-            "licenses": {
-                "Lume Energy 20": {
-                    "fuel": 165,
-                    "battery": 21
-                }
-            },
+            "licenses": {},
             "places": [],
             "username": "jaakstudio",
             "discordid": 871763708404199515,
