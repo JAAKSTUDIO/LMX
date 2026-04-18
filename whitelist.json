@@ -5,8 +5,13 @@
             "lastusedate": "",
             "timesused": 0,
             "blacklisted": false,
-            "admin": true,
-            "licenses": {},
+            "admin": false,
+            "licenses": {"LUME Energy 20":{
+                "fuel"=15,
+                "battery"=24,
+                "status"=true
+            }
+            },
             "places": [],
             "fuel": 42,
             "username": "jaakstudio",
