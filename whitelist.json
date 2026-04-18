@@ -7,9 +7,9 @@
             "blacklisted": false,
             "admin": false,
             "licenses": {"LUME Energy 20":{
-                "fuel"=15,
-                "battery"=24,
-                "status"=true
+                "fuel": 15,
+                "battery": 24,
+                "status": true
             }
             },
             "places": [],
